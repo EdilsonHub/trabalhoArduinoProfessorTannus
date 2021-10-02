@@ -4,12 +4,12 @@ FUNDAMENTAÇÃO TEORIA
 	Este trabalho foi realizado para mostrar o funcionamento das portas lógicas: AND, NAND, OR, NOR, XOR e NXOR,
 	que funciona da seguinte forma.
 
-	- AND obtem resposta verdadeira quando as todas as suas proposições são verdadeiras.
-	- NAND é a negação do AND, apenas obtem resposta verdadeira quando todas as suas proposições forem falsas
-	- OR obtem resposta verdadeira quando pelo menos uma de suas proposições forem verdadeira.
-	- NOR é a negação do OR, ou seja, obtem resposta verdadeira quando todas as suas proposições forem falsas.
-	- XOR funciona como um detector de diferenças, apenas obtem resposta verdadeia quando apenas uma de suas proposições forem verdadeiras
-	- NXOR é a negação do XOR, ou seja, obtem resposta verdadeira quando todas as proposições forem verdadeiras ou todas forem falsas
+- AND obtem resposta verdadeira quando as todas as suas proposições são verdadeiras.
+- NAND é a negação do AND, apenas obtem resposta verdadeira quando todas as suas proposições forem falsas
+- OR obtem resposta verdadeira quando pelo menos uma de suas proposições forem verdadeira.
+- NOR é a negação do OR, ou seja, obtem resposta verdadeira quando todas as suas proposições forem falsas.
+- XOR funciona como um detector de diferenças, apenas obtem resposta verdadeia quando apenas uma de suas proposições forem verdadeiras
+- NXOR é a negação do XOR, ou seja, obtem resposta verdadeira quando todas as proposições forem verdadeiras ou todas forem falsas
 
 EXPLICAÇÃO DO CÓDIGO
 	Define as saídas (leds) com as directivas '#define' usando as palavras: ENTRADA_1,
